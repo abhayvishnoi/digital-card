@@ -4,8 +4,8 @@ export default function Interests() {
     <interests>
       <h3>Interests</h3>
       <p>
-        Mai Bhagna Chahta Hu, Daudna Chahta hu GIrna bhi chahta hu bas rukna
-        nahi chahta.Bas koi ullu ka patha ud jaye.
+        I Love Reading,Coding,Travelling and Carrom.I always love to explore
+        what's possible with automation & tech that can reduce human effort.
       </p>
     </interests>
   );

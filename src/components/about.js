@@ -4,9 +4,9 @@ export default function About() {
     <about>
       <h3>About</h3>
       <p>
-        I am a web developer with a passion for creating beautiful and
-        functional websites. I have a strong background in graphic design and I
-        am always looking to learn new skills and techniques.
+        I am a full stack developer with a passion for creating beautiful and
+        functional websites. I have a strong background in api , backend and
+        bots development.
       </p>
     </about>
   );
